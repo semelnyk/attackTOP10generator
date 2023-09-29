@@ -22,10 +22,5 @@ python3 mittreATTACK.py
 
 This will execute the script, download the required JSON files into an enterprise_layers directory, and then analyze and display the occurrences of each technique. Output example:
 
-
-
-
-
-<img width="399" alt="Untitled" src="https://github.com/semelnyk/mittreATTACK/assets/97104452/af0391ab-8e57-46a6-a72c-d67373e4e4aa">
-
+![MicrosoftTeams-image](https://github.com/semelnyk/mittreATTACK/assets/97104452/8e0153ba-0a09-4007-b530-b8a2767b127b)
 

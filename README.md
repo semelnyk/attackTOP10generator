@@ -17,7 +17,7 @@ How to Run the Script:
 
 Run the script:
 ```
-python3 mittreATTACK.py
+python3 attackTOP10generator.py
 ```
 
 This will execute the script, download the required JSON files into an enterprise_layers directory, and then analyze and display the occurrences of each technique. Output example:
